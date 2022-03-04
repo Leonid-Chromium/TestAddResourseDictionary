@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
+    <Grid Background="{DynamicResource BackFirstLevel}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="TB" Grid.Row="0"/>
+        <Button x:Name="But" Content="dfgfhcjvhkb" HorizontalAlignment="Center" VerticalAlignment="Center" Click="But_Click" Grid.Row="1"/>
     </Grid>
 </Window>

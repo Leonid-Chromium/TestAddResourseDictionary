@@ -1,5 +1,5 @@
 ﻿WpfApp1
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 D:\File\GitHub\TestAddResourseDictionary\WpfApp1\App.xaml
 5-186900948
 
-5-1673488112
+3-1233169557
 193-1891726104
 Dictionary1.xaml;MainWindow.xaml;Theme\Dictionary1.xaml;Theme\Dictionary2.xaml;Theme\Dictionary3.xaml;
 
-True
+False
 
